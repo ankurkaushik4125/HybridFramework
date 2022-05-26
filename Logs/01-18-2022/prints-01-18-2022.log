@@ -1,0 +1,32 @@
+01-18-2022 15:20:46.931 [main] INFO  com.qa.report.Log - Before navigating to: 'https://acme-test.uipath.com/login'
+01-18-2022 15:20:48.349 [main] INFO  com.qa.report.Log - Navigated to:'https://acme-test.uipath.com/login'
+01-18-2022 15:20:48.589 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='email']
+01-18-2022 15:20:48.616 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='email']
+01-18-2022 15:20:48.686 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='password']
+01-18-2022 15:20:48.704 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='password']
+01-18-2022 15:20:48.756 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //button[@type='submit']
+01-18-2022 15:20:48.783 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //button[@type='submit']
+01-18-2022 15:20:48.783 [main] INFO  com.qa.report.Log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (713a6127c2bdfa7703da3612596b3816)] -> xpath: //button[@type='submit']]
+01-18-2022 15:20:49.890 [main] INFO  com.qa.report.Log - Clicked on: [[ChromeDriver: chrome on WINDOWS (713a6127c2bdfa7703da3612596b3816)] -> xpath: //button[@type='submit']]
+01-18-2022 15:20:49.892 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='dashmenu']//div[2]//a//button
+01-18-2022 15:20:49.918 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='dashmenu']//div[2]//a//button
+01-18-2022 15:20:49.919 [main] INFO  com.qa.report.Log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (713a6127c2bdfa7703da3612596b3816)] -> xpath: //*[@id='dashmenu']//div[2]//a//button]
+01-18-2022 15:20:50.377 [main] INFO  com.qa.report.Log - Clicked on: [[ChromeDriver: chrome on WINDOWS (713a6127c2bdfa7703da3612596b3816)] -> xpath: //*[@id='dashmenu']//div[2]//a//button]
+01-18-2022 15:20:50.392 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr
+01-18-2022 15:20:50.423 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr
+01-18-2022 15:20:50.423 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr
+01-18-2022 15:20:50.445 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr
+01-18-2022 15:20:50.445 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[2]
+01-18-2022 15:20:50.462 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[2]
+01-18-2022 15:20:50.473 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[3]
+01-18-2022 15:20:50.496 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[3]
+01-18-2022 15:20:50.507 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[4]
+01-18-2022 15:20:50.524 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[4]
+01-18-2022 15:20:50.535 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[5]
+01-18-2022 15:20:50.556 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[5]
+01-18-2022 15:20:50.567 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[6]
+01-18-2022 15:20:50.588 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[6]
+01-18-2022 15:20:50.597 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[1]//a[1]
+01-18-2022 15:20:50.618 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //table[@class='table']//tbody//tr[2]//td[1]//a[1]
+01-18-2022 15:20:50.618 [main] INFO  com.qa.report.Log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (713a6127c2bdfa7703da3612596b3816)] -> xpath: //table[@class='table']//tbody//tr[2]//td[1]//a[1]]
+01-18-2022 15:20:51.154 [main] INFO  com.qa.report.Log - Clicked on: [[ChromeDriver: chrome on WINDOWS (713a6127c2bdfa7703da3612596b3816)] -> xpath: //table[@class='table']//tbody//tr[2]//td[1]//a[1]]

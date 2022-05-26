@@ -1,0 +1,2 @@
+01-11-2022 14:30:24.990 [main] INFO  com.qa.report.Log - Before navigating to: 'https://www.google.com'
+01-11-2022 14:30:28.107 [main] INFO  com.qa.report.Log - Navigated to:'https://www.google.com'

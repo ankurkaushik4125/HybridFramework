@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 30.43 s <<< FAILURE! - in TestSuite
+com.qa.TestCases.LoginPageTest.LoginPageTitleTest  Time elapsed: 0.185 s  <<< FAILURE!
+java.lang.AssertionError: expected [ACME System 1 - Log In] but found [ACME System 1 -  Log In]
+	at com.qa.TestCases.LoginPageTest.LoginPageTitleTest(LoginPageTest.java:35)
+
+com.qa.TestCases.HomePageTest.HomePageTitleTest  Time elapsed: 0.177 s  <<< FAILURE!
+java.lang.AssertionError: Homepage title mismatch expected [CME System 1 -  Dashboard] but found [ACME System 1 - Dashboard]
+	at com.qa.TestCases.HomePageTest.HomePageTitleTest(HomePageTest.java:37)
+

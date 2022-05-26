@@ -1,0 +1,36 @@
+01-17-2022 15:09:40.654 [main] INFO  com.qa.report.Log - Before navigating to: 'https://acme-test.uipath.com/login'
+01-17-2022 15:09:42.704 [main] INFO  com.qa.report.Log - Navigated to:'https://acme-test.uipath.com/login'
+01-17-2022 15:09:42.976 [main] INFO  com.qa.report.Log - Browser invoked and url passed to webdriver
+01-17-2022 15:09:46.395 [main] INFO  com.qa.report.Log - Before navigating to: 'https://acme-test.uipath.com/login'
+01-17-2022 15:09:47.835 [main] INFO  com.qa.report.Log - Navigated to:'https://acme-test.uipath.com/login'
+01-17-2022 15:09:47.989 [main] INFO  com.qa.report.Log - Browser invoked and url passed to webdriver
+01-17-2022 15:09:53.003 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='email']
+01-17-2022 15:09:53.041 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='email']
+01-17-2022 15:09:53.179 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='password']
+01-17-2022 15:09:53.213 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='password']
+01-17-2022 15:09:53.308 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //button[@type='submit']
+01-17-2022 15:09:53.334 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //button[@type='submit']
+01-17-2022 15:09:53.334 [main] INFO  com.qa.report.Log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (731bf70a889bb72cf2e4c3cdf29b9869)] -> xpath: //button[@type='submit']]
+01-17-2022 15:09:54.993 [main] INFO  com.qa.report.Log - Clicked on: [[ChromeDriver: chrome on WINDOWS (731bf70a889bb72cf2e4c3cdf29b9869)] -> xpath: //button[@type='submit']]
+01-17-2022 15:09:58.470 [main] INFO  com.qa.report.Log - Before navigating to: 'https://acme-test.uipath.com/login'
+01-17-2022 15:10:00.597 [main] INFO  com.qa.report.Log - Navigated to:'https://acme-test.uipath.com/login'
+01-17-2022 15:10:00.780 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='email']
+01-17-2022 15:10:00.832 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='email']
+01-17-2022 15:10:00.990 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='password']
+01-17-2022 15:10:01.017 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='password']
+01-17-2022 15:10:01.132 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //button[@type='submit']
+01-17-2022 15:10:01.166 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //button[@type='submit']
+01-17-2022 15:10:01.166 [main] INFO  com.qa.report.Log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d28724c4172081700bd0296a9f4fba14)] -> xpath: //button[@type='submit']]
+01-17-2022 15:10:03.081 [main] INFO  com.qa.report.Log - Clicked on: [[ChromeDriver: chrome on WINDOWS (d28724c4172081700bd0296a9f4fba14)] -> xpath: //button[@type='submit']]
+01-17-2022 15:10:06.282 [main] INFO  com.qa.report.Log - Before navigating to: 'https://acme-test.uipath.com/login'
+01-17-2022 15:10:07.724 [main] INFO  com.qa.report.Log - Navigated to:'https://acme-test.uipath.com/login'
+01-17-2022 15:10:07.908 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='email']
+01-17-2022 15:10:07.949 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='email']
+01-17-2022 15:10:08.100 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //*[@id='password']
+01-17-2022 15:10:08.125 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //*[@id='password']
+01-17-2022 15:10:08.295 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //button[@type='submit']
+01-17-2022 15:10:08.338 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //button[@type='submit']
+01-17-2022 15:10:08.338 [main] INFO  com.qa.report.Log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b59c4b96799338ea83e83b2ee7de8f07)] -> xpath: //button[@type='submit']]
+01-17-2022 15:10:09.804 [main] INFO  com.qa.report.Log - Clicked on: [[ChromeDriver: chrome on WINDOWS (b59c4b96799338ea83e83b2ee7de8f07)] -> xpath: //button[@type='submit']]
+01-17-2022 15:10:09.806 [main] INFO  com.qa.report.Log - Trying to find Element By : By.xpath: //strong[contains(text(),'ankur.sharma@kmgin.com')]
+01-17-2022 15:10:09.868 [main] INFO  com.qa.report.Log - Found Element By : By.xpath: //strong[contains(text(),'ankur.sharma@kmgin.com')]
